@@ -1,0 +1,31 @@
+div {
+    color: green;
+}
+
+p {
+    color: green;
+}
+
+p.red-p {
+    color: red;
+}
+
+p.blue-p {
+    color: blue;
+}
+
+p.blue-p span {
+    color: yellow;
+}
+
+strong > span {
+    color: pink;
+}
+
+p[data-foo] {
+    color: violet;
+}
+
+.super-strange-paragraph span:hover {
+    color: red;
+}
