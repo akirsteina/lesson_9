@@ -26,6 +26,6 @@ p[data-foo] {
     color: violet;
 }
 
-.super-strange-paragraph span:hover {
+.super-strange-paragraph:hover span {
     color: red;
 }
